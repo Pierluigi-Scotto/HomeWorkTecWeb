@@ -1,2 +1,2 @@
 # HomeWorkTecWeb
-Simple chat in flask
+Simple chat in flask using SQLite3
